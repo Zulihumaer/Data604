@@ -1,7 +1,9 @@
 # Data604
 Traffic Accidents in Chicago
 The purpose of this research is to investigate traffic trends and outline factors impacting the volume and intensity of traffic accidents in two major cities: Toronto and Chicago.
+
 My part of the analysis is "Chicago crush data" 
+
 Link for dataset: Traffic Crashes - Crashes:https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
 Parameters before wrangling: Size ~350MB, 49cols x 674K rows, 9 years (2013-2022)
